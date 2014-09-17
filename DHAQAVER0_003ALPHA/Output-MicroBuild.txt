@@ -1,0 +1,4 @@
+﻿Compiling 'DHAQAVER0_003ALPHA' for 'Arduino Mega 2560 or Mega ADK'
+Binary sketch size: 24,278 bytes (used 9% of a 258,048 byte maximum) (0.41 secs)
+Uploading to I/O board using 'COM4'
+Done uploading

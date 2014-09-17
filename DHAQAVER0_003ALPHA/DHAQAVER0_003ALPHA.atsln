@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "DHAQAVER0_003ALPHA", "DHAQAVER0_003ALPHA.cppproj", "{07B459B4-8D76-4638-BC6D-A459BA2D616B}"
+EndProject
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "AquaPorn", "..\..\..\Downloads\AquaPorn\AquaPorn.cppproj", "{34A0DD16-3854-4DA8-8E5F-A539E7E1BA2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07B459B4-8D76-4638-BC6D-A459BA2D616B}.Debug|AVR.ActiveCfg = Debug|AVR
+		{07B459B4-8D76-4638-BC6D-A459BA2D616B}.Debug|AVR.Build.0 = Debug|AVR
+		{07B459B4-8D76-4638-BC6D-A459BA2D616B}.Release|AVR.ActiveCfg = Release|AVR
+		{07B459B4-8D76-4638-BC6D-A459BA2D616B}.Release|AVR.Build.0 = Release|AVR
+		{34A0DD16-3854-4DA8-8E5F-A539E7E1BA2B}.Debug|AVR.ActiveCfg = Debug|AVR
+		{34A0DD16-3854-4DA8-8E5F-A539E7E1BA2B}.Debug|AVR.Build.0 = Debug|AVR
+		{34A0DD16-3854-4DA8-8E5F-A539E7E1BA2B}.Release|AVR.ActiveCfg = Release|AVR
+		{34A0DD16-3854-4DA8-8E5F-A539E7E1BA2B}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
